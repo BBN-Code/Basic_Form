@@ -1,0 +1,22 @@
+.home{
+  max-width: 500px;
+  padding: 50px;
+  margin: 100px auto;
+  text-align: center;
+  border: 1.5px #0f0b0b solid;
+  border-radius: 15px;
+}
+
+.welcome{
+  margin-top: 2.2rem;
+  top: 50%;
+  left: 50%;
+  position: absolute;
+  transform: translate(-50%, -50%);
+}
+
+img{
+  height: 100%;
+  object-fit: cover;
+  width: 100%;
+}

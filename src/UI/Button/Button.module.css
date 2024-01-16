@@ -1,0 +1,27 @@
+.button {
+    font: bolder;
+    border: 5px solid #000000;
+    background: #4f005f;
+    color: white;
+    padding: 10px 45px;
+    cursor: pointer;
+    font-size: 14px;
+    border-radius: 30px;
+  }
+  
+  .button:hover,
+  .button:active {
+    background: #741188;
+    border-color: #741188;
+  }
+  
+  button:disabled,
+  button:focus:disabled,
+  button:hover:disabled,
+  button:active:disabled {
+    background: #ccc;
+    border-color: #ccc;
+    color: #666666;
+    cursor: not-allowed;
+  }
+  

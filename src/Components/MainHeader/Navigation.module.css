@@ -1,0 +1,26 @@
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #00ffff;
+  } 
+  
+.elem{
+  display: flex;
+  align-items: center;
+  padding:0px 15px ;
+  margin: 5px 0px;
+  
+}
+
+  .list{
+    list-style: none;
+    cursor: pointer;
+    margin: 13px 25px;
+    font-weight: 600;
+    font-style: normal;
+  }
+
+ 
+  
